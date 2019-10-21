@@ -158,7 +158,7 @@ smmap2==2.0.4
 traceback2==1.4.0
 typing==3.6.6
 unittest2==1.1.0
-urllib3==1.23
+urllib3==1.24.2
 vcrpy==1.13.0
 webencodings==0.5.1
 wrapt==1.10.11

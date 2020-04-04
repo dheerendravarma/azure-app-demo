@@ -149,7 +149,7 @@ python-dateutil==2.7.3
 pytoml==0.1.18
 PyYAML==4.2b4
 readme-renderer==21.0
-requests==2.19.1
+requests==2.20.0
 requests-oauthlib==1.0.0
 scandir==1.9.0
 SecretStorage==2.3.1

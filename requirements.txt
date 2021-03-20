@@ -122,7 +122,7 @@ html5lib==1.0.1
 idna==2.7
 ipaddress==1.0.22
 isodate==0.6.0
-Jinja2==2.10
+Jinja2==2.11.3
 json-delta==2.0
 keyring==13.2.1
 linecache2==1.0.0

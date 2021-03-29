@@ -139,7 +139,7 @@ pluggy==0.7.1
 py==1.5.4
 pycparser==2.18
 PyGithub==1.40
-Pygments==2.2.0
+Pygments==2.7.4
 PyJWT==1.6.4
 pyOpenSSL==18.0.0
 pyparsing==2.2.0
